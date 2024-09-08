@@ -4,6 +4,8 @@ This is a 124M parameter model trained on Shakespeare's plays, the outputs mostl
 Architecture is exactly the same as ChatGPT3
 
 # Screenshot of huggingface app
+<img width="1437" alt="Screenshot 2024-09-08 at 4 24 43 PM" src="https://github.com/user-attachments/assets/60d5e448-4d78-4e8c-a39f-3371dfbf058a">
+
 <img width="1139" alt="Screenshot 2024-09-08 at 3 54 50 PM" src="https://github.com/user-attachments/assets/e4904746-181a-4835-a09f-916d7d854a68">
 
 # Training logs for last few epochs
